@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Architect",
+  "description": "A tool to help users craft structured, high-quality prompts by defining subject, style, mood, and constraints.",
+  "requestFramePermissions": []
+}
